@@ -38,8 +38,8 @@ optional arguments:
 
 ### Telegram Bot Configuration file 
 
-* Put your Telegram bot API Token and Chat Id into config.ini file and set path on `CONFIGPATH` variable `CONFIGPATH="/home/user/config.ini"` on line 12.    
-* Set `config.ini` file like this :   
+* Put your Telegram bot API Token and Chat Id into config.ini file and set path on `CONFIGPATH` variable `CONFIGPATH="/home/user/Config.ini"` on line 15.    
+* Set `Config.ini` file like this :   
 
 ```   
 [telegram]
